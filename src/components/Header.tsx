@@ -15,7 +15,7 @@ const Header: FC = () => {
   return (
     <>
       <header className="fixed top-3 z-50 w-full">
-        <nav className="z-5 mx-auto flex h-12 w-[95%] items-center justify-between rounded-full bg-neutral-900/25 p-3 px-10 text-xl text-stone-400 backdrop-blur md:w-[70%]">
+        <nav className="z-5 mx-auto flex h-12 w-[95%] items-center justify-between rounded-full bg-neutral-900/50 p-3 px-10 text-xl text-amber-100 backdrop-blur md:w-[70%]">
           <button className="flex h-12 w-16 items-center justify-center rounded-xl p-2 transition  md:hidden">
             =
           </button>
